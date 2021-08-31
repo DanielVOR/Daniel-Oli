@@ -4,6 +4,7 @@
 - 💞️ 👀 I am interested in finding promising companies to engage my career and continue learning
 - 📫 I can be reached on twitter.
 - 📰 I write about my projects where .
+- ✨ My goal is work on USA
 
 <!---
 This-daniel/This-daniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
