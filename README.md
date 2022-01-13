@@ -13,8 +13,8 @@
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left"> <a href="https://github.com/stars/DevDuno/lists/python-projects" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/> 
-<a href="https://github.com/stars/DevDuno/lists/java-projects" target="_blank"> <img src="https://www.logo.wine/a/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.svg" alt="Python" width="80" height="80"/> 
+<p align="left"> <a href="hhttps://github.com/stars/Daniel-Oli/lists/python-projects" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/> 
+<a href="https://github.com/stars/Daniel-Oli/lists/java-projects" target="_blank"> <img src="https://www.logo.wine/a/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.svg" alt="Python" width="80" height="80"/> 
   
   
   
