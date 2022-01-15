@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋 eu sou o Daniel Oliveira</h1>
-<h3 align="center">Sou um estudante de Programação Web </h3>
+<h3 align="center">Sou mais um eterno estudante de Programação</h3>
 
 - 🌱 Atualmente estou aprendendo **Python, Java, Cloud services, Ciencia de dados **
 
