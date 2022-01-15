@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋 eu sou o Daniel Oliveira</h1>
-<h3 align="center">Sou um estudante de Inteligência Artificial </h3>
+<h3 align="center">Sou um estudante de Programação Web </h3>
 
-- 🌱 Atualmente estou aprendendo **Python, Java, Cloud services, DataScience e Machine Learning**
+- 🌱 Atualmente estou aprendendo **Python, Java, Cloud services, Ciencia de dados **
 
 - 📫 Meu contato é: **this.daniel@outlook.com**
 
