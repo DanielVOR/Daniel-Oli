@@ -1,17 +1,32 @@
-<h1 align="center">Olá 👋 eu sou o Daniel Oliveira</h1>
-<h3 align="center">Sou programador buscando meu lugar no mundo</h3>
+<div>
+    <a target='_blank' href="https://linkedin.com/in/daniel-oli">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a target='_blank' href="https://twitter.com/https://twitter.com/DevDaniiel">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+    </a>
+    <a target='_blank' href="https://dev.to/duno">
+        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
+    </a>
+    
+</div>
 
-- 🌱 Atualmente estou aprendendo **Python, Java, Cloud services, Ciencia de dados **
+## Greetings My Friend! 👋
 
-- 📫 Meu contato é: **this.daniel@outlook.com**
+I don't really know how u got here, but I will try to show a little bit about myself for you.
 
-- ⚡ Uma curiosidade sobre mim: **Sou o Batman**
+## Public information
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/devduno/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="DanielOliveira/" height="30" width="40" /></a>
-</p>
+My name is Daniel Oliveira. I currently live in São Paulo, Brazil and my work is to studying and solve code problems. 
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left"> <a href="https://github.com/stars/Daniel-Oli/lists/python-projects" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/> 
-<a href="https://github.com/stars/Daniel-Oli/lists/java-projects" target="_blank"> <img src="https://www.logo.wine/a/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.svg" alt="Python" width="80" height="80"/> 
+I am dedicated and organized, I like to plan my days. 
+
+On my free time, I like to run, read books and play games.
+
+## Detailed information
+
+* **Name**: Daniel Oliveira
+* **Age**: 26
+* **Living in**: São Paulo, Brazil
+* **Stack**: Python - Django - Java - SQL - AWS
+* **University**: Nope, I haven't yet.
