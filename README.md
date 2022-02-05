@@ -11,7 +11,7 @@
     
 </div>
 
-## Greetings My Friend! 👋
+## Greetings My Friend!
 
 I don't really know how u got here, but I will try to show a little bit about myself for you.
 
@@ -19,9 +19,6 @@ I don't really know how u got here, but I will try to show a little bit about my
 
 My name is Daniel Oliveira. I currently live in São Paulo, Brazil and my work is to studying and solve code problems. 
 
-I am dedicated and organized, I like to plan my days. 
-
-On my free time, I like to run, read books and play games.
 
 ## Detailed information
 
