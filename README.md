@@ -31,5 +31,5 @@ On my free time, I like to run, read books and play games.
 * **Stack**: Python - Django - Java - SQL - AWS
 * **University**: Nope, I haven't yet.
 * 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-oli)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-oli)](https://github.com/daniel-oli/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-oli&layout=compact)](https://github.com/daniel-oli/github-readme-stats)
