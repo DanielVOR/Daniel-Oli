@@ -25,7 +25,7 @@ My name is Daniel Oliveira. I currently live in São Paulo, Brazil and my work i
 * **Name**: Daniel Oliveira
 * **Age**: 26
 * **Living in**: São Paulo, Brazil
-* **Stack**: Python - Django - Java - SQL - AWS
+* **Stack**: Python - Django - Heroku - Postgresql 
 * **University**: Nope, I haven't yet.
 * 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-oli)](https://github.com/daniel-oli/github-readme-stats)
