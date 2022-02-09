@@ -24,16 +24,13 @@
 <div align="left">
     <h2>Public information</h2>
     <h5>I'm a Program and Systems Development student, focusing on Back-End by freeCodeCamp.</h5>
-    <h6> and im looking for my first job as a programmer...</h6>
     <table>
         <tr>
-            <td align="left">Name</td>
             <td align="left">Age</td>
             <td align="left">Living in</td>
             <td align="left">Universit</td>
         </tr>
         <tr>
-            <td align="left">Daniel Oliveira</td>
             <td align="left">26</td>
             <td align="left">São Paulo, Brazil</td>
             <td align="left">Nope, I haven't yet.</td>
