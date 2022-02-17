@@ -23,7 +23,7 @@
 <!-- Information section -->
 <div align="left">
     <h2>Public information</h2>
-    <h5>I'm a Program and Systems Development student, focusing on Back-End by <a href=“https://www.freecodecamp.org/DevDuno“>free Code Camp</a> .</h5><br>
+    <h5>I'm a Program and Systems Development student, focusing on Back-End by [Flex Grid](http://exemplo.com/) .</h5><br>
     I'm 26 years old and I currently live in São Paulo SP. I don't have a university yet.
 </div>
     
