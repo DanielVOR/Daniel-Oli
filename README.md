@@ -23,19 +23,8 @@
 <!-- Information section -->
 <div align="left">
     <h2>Public information</h2>
-    <h5>I'm a Program and Systems Development student, focusing on Back-End by freeCodeCamp.</h5>
-    <table>
-        <tr>
-            <td align="left">Age</td>
-            <td align="left">Living in</td>
-            <td align="left">Universit</td>
-        </tr>
-        <tr>
-            <td align="left">26</td>
-            <td align="left">São Paulo, Brazil</td>
-            <td align="left">Nope, I haven't yet.</td>
-        </tr>
-    </table>
+    <h5>I'm a Program and Systems Development student, focusing on Back-End by freeCodeCamp.</h5><br>
+    I'm 26 years old and I currently live in São Paulo SP. I don't have a university yet.
 </div>
     
 
