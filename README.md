@@ -14,15 +14,15 @@
 <!-- Greetings Section -->
 <div align="left">
     <h2>Greetings My Friend !</h2>    
-    <h5>I don't really know how u got here, but I will try to show a little bit about myself for you.</h5>
+    <h4>I don't really know how u got here, but I will try to show a little bit about myself for you.</h4>
 </div>
     
 
 <!-- Information section -->
 <div align="left">
     <h2>Public information</h2>
-    <h5>I'm a Program and Systems Development student, focusing on Back-End by <i>free Code Camp</i>.</h5><br>
-    <h5>I'm 26 years old and I currently live in São Paulo SP. I don't have a university yet.</h5>
+    <h4>I'm a Program and Systems Development student, focusing on Back-End by <i>free Code Camp</i>.</h4><br>
+    <h4>I'm 26 years old and I currently live in São Paulo SP. I don't have a university yet.</h4>
 </div>
     
 
